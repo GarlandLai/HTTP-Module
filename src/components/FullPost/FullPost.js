@@ -7,7 +7,7 @@ class FullPost extends Component {
 		let post = <p>Please select a Post!</p>;
 		post = (
 			<div className="FullPost">
-				<h1>Title</h1>
+				<h1>Titles</h1>
 				<p>Content</p>
 				<div className="Edit">
 					<button className="Delete">Delete</button>
